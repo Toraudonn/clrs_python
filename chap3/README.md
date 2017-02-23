@@ -1,7 +1,7 @@
 # Chapter 3
 
 ## 3.1 Asymptotic notation
-(learn x in y minutes)[https://learnxinyminutes.com/docs/asymptotic-notation/]  
+[learn x in y minutes](https://learnxinyminutes.com/docs/asymptotic-notation/)  
 ### What is Asymptotic Notations?
 They are languages that allow us to analyze an algorithm's running time by identifying its behavior as the input size for the algorithm increases. This is also known as an algorithm's **growth rate**. 
 
